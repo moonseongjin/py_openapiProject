@@ -20,22 +20,22 @@
 </p>
 
 <h3>4.report_automation</h3>
-<p>
+<div>
   <strong>[Create&save]</strong>
   <img width=400px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/86e17583-e856-404d-80a2-d0940f14cc90">
-</p>
-<p>
+</div>
+<div>
   <strong>[title]</strong>
   <img width=400px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/dfffe274-74e3-4b12-b8cf-b3524cdbe0b2">
   <strong>[title&content]</strong>
   <img width=400px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/4a4225dc-814f-4cf8-a72f-331e4dda3823">
-</p>
-<p>
+</div>
+<div>
   <strong>[PHOTO]</strong>
   <img width=400px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/be8f0b62-998f-4163-be6d-5dfcfe4e66d8">
   <strong>[TABLE]</strong>
   <img width=400px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/4b61c567-2c05-4693-b6fa-ed77a38015eb">
-</p>
+</div>
 
 <h3>5.email_sending</h3>
   <strong>[TEXT]</strong>
