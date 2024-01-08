@@ -9,6 +9,7 @@
 <img width=80% src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/27fc1ffc-e759-4c70-9588-ae574360cda3">
 
 <h3>naver_crawling</h3>
+<img width=80% src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/ed11b4dd-f0f5-40ff-8514-557280192489">
 
 <h3>report_automation</h3>
 <img width=80% src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/86e17583-e856-404d-80a2-d0940f14cc90">
