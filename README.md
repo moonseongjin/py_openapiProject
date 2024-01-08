@@ -2,7 +2,7 @@
 <h1>오픈 API 활용 프로젝트</h1>
 
 <h3>photo_gathering</h3>
-<img width=600px text-align: center src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/2efa76d9-2d7b-4bb4-918c-78ebffcf1bc7">
+<img width=600px; text-align: center; src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/2efa76d9-2d7b-4bb4-918c-78ebffcf1bc7">
 
 <h3>kakaotalk_sending</h3>
 <img width=200px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/a7bc5294-58f6-40d9-b45f-6036325fe765">
