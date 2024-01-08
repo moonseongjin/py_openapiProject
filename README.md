@@ -5,8 +5,8 @@
 <img width=80% src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/2efa76d9-2d7b-4bb4-918c-78ebffcf1bc7">
 
 <h3>kakaotalk_sending</h3>
-<img width=80% src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/a7bc5294-58f6-40d9-b45f-6036325fe765">
-<img width=80% src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/27fc1ffc-e759-4c70-9588-ae574360cda3">
+<img width=200px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/a7bc5294-58f6-40d9-b45f-6036325fe765">
+<img width=200px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/27fc1ffc-e759-4c70-9588-ae574360cda3">
 
 <h3>naver_crawling</h3>
 <img width=80% src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/ed11b4dd-f0f5-40ff-8514-557280192489">
