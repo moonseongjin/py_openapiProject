@@ -43,3 +43,6 @@
   <strong>[PHOTO]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/df5203f2-160e-4a8a-8feb-d54527e3a52d">
 
+<h3>6.naverNews_reading</h3>
+<h3>7.google_smart_scheduler</h3>
+
