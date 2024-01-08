@@ -8,9 +8,9 @@
 
 <h3>2.kakaotalk_sending</h3>
 <p align="center">
-  <h6>TEXT</h6>
+  <strong>TEXT</strong>
   <img width=200px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/a7bc5294-58f6-40d9-b45f-6036325fe765">
-  <h6>LIST</h6>
+   <strong>LIST</strong>
   <img width=200px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/27fc1ffc-e759-4c70-9588-ae574360cda3">
 </p>
 
