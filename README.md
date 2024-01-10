@@ -47,7 +47,7 @@
 <p>
   <strong>[TOP3Eco]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/67da47d1-6e9b-4e2a-9e3e-053169578f50">
-  <strong>[TOP3Eco]</strong>
+  <strong>[News_Link]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/94483ddb-4f7e-4d1c-8402-a470d40b0217">
 </p>
 <p>
