@@ -47,6 +47,8 @@
 <p>
   <strong>[TOP3Eco]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/67da47d1-6e9b-4e2a-9e3e-053169578f50">
+  <strong>[TOP3Eco]</strong>
+  <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/94483ddb-4f7e-4d1c-8402-a470d40b0217">
 </p>
 <p>
   <strong>[News01]</strong>
@@ -72,8 +74,8 @@
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/46b9aabc-323d-4aa4-b201-af1c503f014f">
 </p>
 <p>
-  <strong>[Schedule_Detail]</strong>
+  <strong>[Detail]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/a5ace37c-d1db-4b73-bf58-70f70964dc0b">
-  <strong>[Schedule_Location]</strong>
+  <strong>[Location]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/3d9e7e2c-57e9-49b5-ac38-747ff9d7391f">
 </p>
