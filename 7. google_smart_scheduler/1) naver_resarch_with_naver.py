@@ -3,8 +3,8 @@
 import requests
 
 headers = {
-    'X-Naver-Client-Id':'X-ClientID',
-    'X-Naver-Client-Secret':'X-ClientSecret'
+    'X-Naver-Client-Id':'ClientID',
+    'X-Naver-Client-Secret':'ClientSecret'
 }
 
 query='국민대 맛집'

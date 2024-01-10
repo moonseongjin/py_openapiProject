@@ -222,7 +222,7 @@ print(news_list3[1]['snews_contents'])
 import json
 
 KAKAO_TOKEN_FILENAME='C:/Users/moonw/py_life/res/kakao_token.json'
-KAKAO_APP_KEY = '223d244c5f04dee77a107d484d57d36f'
+KAKAO_APP_KEY = 'REST API'
 update_tokens(KAKAO_APP_KEY, KAKAO_TOKEN_FILENAME)
 
 sections_ko = {'pol':'정치', 'eco':'경제','soc':'사회'}
