@@ -1,11 +1,12 @@
 # py_openapiProject
 <h1>오픈 API 활용 프로젝트</h1>
 <h2>Open API(공공데이터포털, 카카오 API, 네이버 API, 구글 API) 활용</h2>
+<br>
 <h3>1.photo_gathering</h3>
 <p align="center">
 <img width=600px; src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/2efa76d9-2d7b-4bb4-918c-78ebffcf1bc7">
 </p>
-
+<br>
 <h3>2.kakaotalk_sending</h3>
 <p align="center">
   <strong>[KakaoText]</strong>
@@ -13,12 +14,12 @@
    <strong>[KakaoList]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/27fc1ffc-e759-4c70-9588-ae574360cda3">
 </p>
-
+<br>
 <h3>3.naver_crawling</h3>
 <p align="center">
 <img width=600px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/ed11b4dd-f0f5-40ff-8514-557280192489">
 </p>
-
+<br>
 <h3>4.report_automation</h3>
 <p>
   <strong>[PPTCreateSave]</strong>
@@ -36,13 +37,13 @@
   <strong>[PPTTable]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/4b61c567-2c05-4693-b6fa-ed77a38015eb">
 </p>
-
+<br>
 <h3>5.email_sending</h3>
   <strong>[EmailText]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/8c692a1e-fbd0-4560-b05d-302075b612c0">
   <strong>[EmailPhoto]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/df5203f2-160e-4a8a-8feb-d54527e3a52d">
-
+<br>
 <h3>6.naverNews_reading</h3>
 <p>
   <strong>[KakaoList]</strong>
@@ -68,6 +69,7 @@
   <strong>[03Link]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/10d6d8da-1f53-4103-ae06-25b73aef3db7">
 </p>
+<br>
 <h3>7.google_smart_scheduler</h3>
 <p>
   <strong>[KakaoList]</strong>
@@ -79,6 +81,7 @@
   <strong>[Map]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/3d9e7e2c-57e9-49b5-ac38-747ff9d7391f">
 </p>
+<br>
 <h3>8. weather_data_recommanding</h3>
 <p>
   <strong>[KakaoText]</strong>
@@ -96,6 +99,7 @@
   <strong>[Weather]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/dff75169-2ffe-4490-8be7-efb1e28a5c83">
 </p>
+<br>
 <h3>9. stock_info_sending</h3>
 <p>
   <strong>[DataFrame01]</strong>
@@ -107,12 +111,26 @@
   <strong>[EmailAttach]</strong>
   <img width=200px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/7de83a44-3e15-4cb2-8ff9-e72da6b599f6">
 </p>
+<br>
 <p>
   <strong>[StockChart]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/0f7087de-5742-4f90-8796-2f6373db673b">
   <strong>[StockTable]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/ac7373a0-16f0-4edd-abbd-7c943b554468">
 </p>
+<br>
+<h6>프로젝트를 마치며...</h6>
+<div>본 프로젝트를 하면서 어려움을 겪었던 것은 두 가지이다.</div>
+<div>1. 빠르고 쉽게 바뀌는 경로와 정보들</div>
+<div>책과 웹사이트를 통해 정보를 습득하였고 실습을 진행하였지만, 겨우 1~2년밖에 지나지 않았는데도 바뀐 것이 많아서 실행하기 어려웠다.</div>
+<div>단편적으로 네이버 영화 크롤링에서는 네이버 영화 사이트 자체가 사라졌기에 네이버 뉴스로 창작 실습하였고, 네이버 API와 구글 API를 활용할 때에는 이전과 달리 보안문제가 생겼지만 친절한 정보는 없어 한참을 직접 도전해 본 끝에야 성공할 수 있었다.</div>
+<br>
+<div>2. 버전에 따라 바뀌는 기능들</div>
+<div>보안문제와 다수의 경로가 바뀌는 문제들도 있었지만, 버전이 업그레이드 되면서 라이브러리의 기능이 사라져 헤맨적도 있었다.</div>
+<div>Pandas가 2.0으로 업그레이드되면서 append 기능에 삭제되었음에도 이유를 뒤늦게 알아서 진땀을 뺐으며 concat으로 대체한 후에야 올바르게 작동할 수 있었다.</div>
+<div>OPEN API는 시간에 지남에 따라 버전 또는 필요한 경로 등이 바뀌는 경우가 상당히 존재하며 겨우 1~2년이 지난 이후에 이 글을 볼때에도 상당 부분 달라져 있을 것이라는 것을 느꼈다.</div>
+<div>결론, 코드 복사 붙여넣기 하지말 것!</div>
 
-  
+
+
 
