@@ -1,6 +1,6 @@
 # py_openapiProject
 <h1>오픈 API 활용 프로젝트</h1>
-
+<h2>Open API(공공데이터포털, 카카오 API, 네이버 API, 구글 API) 활용</h2>
 <h3>1.photo_gathering</h3>
 <p align="center">
 <img width=600px; src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/2efa76d9-2d7b-4bb4-918c-78ebffcf1bc7">
