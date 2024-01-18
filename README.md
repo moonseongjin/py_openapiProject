@@ -75,6 +75,13 @@
 </p>
 <p>
   <strong>[Detail]</strong>
+<h3>8. weather_data_recommanding</h3>
+
+<h3>9. stock_info_sending</h3>
+
+
+
+  
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/a5ace37c-d1db-4b73-bf58-70f70964dc0b">
   <strong>[Location]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/3d9e7e2c-57e9-49b5-ac38-747ff9d7391f">
