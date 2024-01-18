@@ -31,7 +31,7 @@ def send_email(send_info, msg):
 title = "기본 이메일입니다."
 content = "메일 내용입니다."
 sender = smtp_info['smtp_user_id'] # 송신자(sender) 이메일 계정
-receiver = "moonwalk486@naver.com" # 수신자 이메일 계정
+receiver = "@naver.com" # 수신자 이메일 계정
 
 # 메일 객체 생성 : 메시지 내용에는 한글이 들어가기 때문에 한글을 지원하는 문자 쳬게, UTF-8을 명시해줍니다.
 

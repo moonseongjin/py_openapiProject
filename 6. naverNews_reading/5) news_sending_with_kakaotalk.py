@@ -68,8 +68,8 @@ def update_tokens(app_key, filename):
     url = "https://kauth.kakao.com/oauth/token"
     data = {
         "grant_type" : "refresh_token",
-        "client_id" : app_key,  # 변경된 부분
-        "refresh_token" : tokens['refresh_token']  # 변경된 부분
+        "client_id" : app_key,  
+        "refresh_token" : tokens['refresh_token'] 
     }
     response = requests.post(url, data=data)
     
