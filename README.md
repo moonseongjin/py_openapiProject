@@ -71,7 +71,7 @@
 <h3>7.google_smart_scheduler</h3>
 <p>
   <strong>[KakaoList]</strong>
-  <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/46b9aabc-323d-4aa4-b201-af1c503f014f">
+  <img width=200px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/46b9aabc-323d-4aa4-b201-af1c503f014f">
 </p>
 <p>
   <strong>[Google]</strong>
@@ -108,9 +108,9 @@
   <img width=200px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/7de83a44-3e15-4cb2-8ff9-e72da6b599f6">
 </p>
 <p>
-  <strong>[삼성전자chart]</strong>
+  <strong>[StockChart]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/0f7087de-5742-4f90-8796-2f6373db673b">
-  <strong>[삼성전자table]</strong>
+  <strong>[StockTable]</strong>
   <img width=300px src="https://github.com/moonseongjin/py_openapiProject/assets/124224738/ac7373a0-16f0-4edd-abbd-7c943b554468">
 </p>
 
