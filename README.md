@@ -1,7 +1,7 @@
 # py_openapiProject
 <h1>오픈 API 활용 프로젝트</h1>
 <h2>Open API(공공데이터포털, 카카오 API, 네이버 API, 구글 API) 활용</h2>
-<h3>노션 링크 https://assorted-bedbug-045.notion.site/00d88d5fb8d144c38b02fec8fdfec193?pvs=4</h3>
+<h3>노션 링크 https://assorted-bedbug-045.notion.site/81806461f00142539ca96c8a6d39cc9d?pvs=4</h3>
 <br>
 <h3>1.photo_gathering</h3>
 <div align="center">
